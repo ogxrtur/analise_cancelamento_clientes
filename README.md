@@ -1,4 +1,4 @@
-# analise_cancelamento_clientesCom certeza! Aqui está um README mais completo, profissional e organizado, mas ainda com uma linguagem natural e acessível — para seu projeto de análise de cancelamento de clientes:
+
 
 ---
 
