@@ -70,9 +70,3 @@ Se quiser conversar sobre o projeto, trocar ideias ou possíveis oportunidades, 
 
 Obrigado por visitar o projeto!
 
-```
-
----
-
-Se quiser, posso ajudar a montar o `requirements.txt`, criar scripts ou até montar um guia de contribuição. Quer?
-```
